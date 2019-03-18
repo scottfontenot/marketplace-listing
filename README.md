@@ -1,5 +1,5 @@
 # Project 4: Launch Pads
-[github site](https://scottfontenot.github.io/marketplace-listing/)
+[project site](https://scottfontenot.github.io/marketplace-listing.io/)
 Apartment marketplace app with city filtering, and rendering JSON data using AJAX.
 
 ## Links
